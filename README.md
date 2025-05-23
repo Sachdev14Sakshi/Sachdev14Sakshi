@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sakshi Sachdev
 
-**Software Engineer @ Oracle** | **Cloud-Native & Scalable Systems** | **Backend & Distributed Systems** | **Exploring GenAI**
+**Senior Software Engineer @ Oracle** | **Cloud-Native & Scalable Systems** | **Backend & Distributed Systems** | **Exploring GenAI**
 
 ---
 
