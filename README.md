@@ -68,7 +68,7 @@ Working at the intersection of **cloud infrastructure** and **healthcare tech** 
 ## 🧠 Exploring GenAI
 
 - Built a **RAG (Retrieval-Augmented Generation)** app integrating LLMs with custom datasets  
-  👉 *[View the project on GitHub](https://github.com/yourusername/your-repo)*  
+  👉 *[View the project on GitHub](https://github.com/Sachdev14Sakshi/ARVA)*  
 - Pitching and prototyping **GenAI use cases** within Oracle Health  
 - Exploring **practical applications** of GenAI in healthcare and enterprise systems
 
